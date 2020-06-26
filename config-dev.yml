@@ -1,1 +1,2 @@
-我是donfig-dev.yml文件
+config:
+    info: 我是donfig-dev.yml文件
